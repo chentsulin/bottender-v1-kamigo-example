@@ -28,6 +28,24 @@
 卡米狗忘記;紅茶拿鐵
 ```
 
+## Setup
+
+複製並填寫環境變數
+
+```
+cp .env.sample .env
+```
+
+## NPM Scripts
+
+### npm run dev
+
+會監控修改並重啟 Server，適合開發使用。
+
+### npm start
+
+執行 Bot Server。
+
 ## License
 
 MIT © [C. T. Lin](https://github.com/chentsulin/bottender-v1-kamigo-example)
